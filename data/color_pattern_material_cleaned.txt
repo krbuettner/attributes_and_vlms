@@ -1,0 +1,323 @@
+24,2,black,bicycle
+27,2,gray,bicycle
+34,2,white,bicycle
+24,3,black,car
+25,3,blue,car
+27,3,gray,car
+31,3,red,car
+34,3,white,car
+35,3,yellow,car
+24,4,black,motorcycle
+25,4,blue,motorcycle
+27,4,gray,motorcycle
+31,4,red,motorcycle
+34,4,white,motorcycle
+25,5,blue,airplane
+27,5,gray,airplane
+31,5,red,airplane
+34,5,white,airplane
+24,6,black,bus
+25,6,blue,bus
+31,6,red,bus
+34,6,white,bus
+35,6,yellow,bus
+24,7,black,train
+25,7,blue,train
+27,7,gray,train
+31,7,red,train
+34,7,white,train
+35,7,yellow,train
+24,8,black,truck
+27,8,gray,truck
+31,8,red,truck
+34,8,white,truck
+24,9,black,boat
+25,9,blue,boat
+31,9,red,boat
+34,9,white,boat
+35,9,yellow,boat
+24,10,black,traffic light
+28,10,green,traffic light
+31,10,red,traffic light
+35,10,yellow,traffic light
+31,11,red,fire hydrant
+35,11,yellow,fire hydrant
+24,13,black,stop sign
+31,13,red,stop sign
+34,13,white,stop sign
+24,14,black,parking meter
+27,14,gray,parking meter
+24,15,black,bench
+26,15,brown,bench
+27,15,gray,bench
+34,15,white,bench
+24,16,black,bird
+26,16,brown,bird
+27,16,gray,bird
+34,16,white,bird
+24,17,black,cat
+26,17,brown,cat
+32,17,tan,cat
+34,17,white,cat
+24,18,black,dog
+26,18,brown,dog
+32,18,tan,dog
+34,18,white,dog
+24,19,black,horse
+26,19,brown,horse
+32,19,tan,horse
+34,19,white,horse
+24,20,black,sheep
+26,20,brown,sheep
+27,20,gray,sheep
+32,20,tan,sheep
+34,20,white,sheep
+24,21,black,cow
+26,21,brown,cow
+27,21,gray,cow
+34,21,white,cow
+26,22,brown,elephant
+27,22,gray,elephant
+32,22,tan,elephant
+24,23,black,bear
+26,23,brown,bear
+24,24,black,zebra
+34,24,white,zebra
+26,25,brown,giraffe
+32,25,tan,giraffe
+24,27,black,backpack
+25,27,blue,backpack
+27,27,gray,backpack
+34,27,white,backpack
+24,28,black,umbrella
+25,28,blue,umbrella
+31,28,red,umbrella
+34,28,white,umbrella
+24,31,black,handbag
+25,31,blue,handbag
+26,31,brown,handbag
+31,31,red,handbag
+34,31,white,handbag
+24,32,black,tie
+25,32,blue,tie
+27,32,gray,tie
+31,32,red,tie
+34,32,white,tie
+24,33,black,suitcase
+25,33,blue,suitcase
+26,33,brown,suitcase
+27,33,gray,suitcase
+31,33,red,suitcase
+31,34,red,frisbee
+34,34,white,frisbee
+35,34,yellow,frisbee
+24,35,black,skis
+34,35,white,skis
+24,36,black,snowboard
+28,37,green,sports ball
+34,37,white,sports ball
+35,37,yellow,sports ball
+24,38,black,kite
+25,38,blue,kite
+28,38,green,kite
+29,38,orange,kite
+31,38,red,kite
+34,38,white,kite
+35,38,yellow,kite
+24,39,black,baseball bat
+26,39,brown,baseball bat
+32,39,tan,baseball bat
+34,39,white,baseball bat
+24,40,black,baseball glove
+26,40,brown,baseball glove
+24,41,black,skateboard
+32,41,tan,skateboard
+24,42,black,surfboard
+25,42,blue,surfboard
+32,42,tan,surfboard
+34,42,white,surfboard
+35,42,yellow,surfboard
+24,43,black,tennis racket
+34,43,white,tennis racket
+24,44,black,bottle
+25,44,blue,bottle
+26,44,brown,bottle
+27,44,gray,bottle
+28,44,green,bottle
+29,44,orange,bottle
+31,44,red,bottle
+34,44,white,bottle
+35,44,yellow,bottle
+24,47,black,cup
+25,47,blue,cup
+26,47,brown,cup
+31,47,red,cup
+34,47,white,cup
+27,48,gray,fork
+24,49,black,knife
+27,49,gray,knife
+27,50,gray,spoon
+24,51,black,bowl
+25,51,blue,bowl
+26,51,brown,bowl
+27,51,gray,bowl
+31,51,red,bowl
+34,51,white,bowl
+35,51,yellow,bowl
+24,52,black,banana
+28,52,green,banana
+35,52,yellow,banana
+28,53,green,apple
+31,53,red,apple
+35,53,yellow,apple
+26,54,brown,sandwich
+32,54,tan,sandwich
+34,54,white,sandwich
+35,54,yellow,sandwich
+29,55,orange,orange
+35,55,yellow,orange
+28,56,green,broccoli
+29,57,orange,carrot
+26,58,brown,hot dog
+31,58,red,hot dog
+32,58,tan,hot dog
+26,59,brown,pizza
+29,59,orange,pizza
+31,59,red,pizza
+32,59,tan,pizza
+34,59,white,pizza
+35,59,yellow,pizza
+26,60,brown,donut
+27,60,gray,donut
+32,60,tan,donut
+34,60,white,donut
+26,61,brown,cake
+31,61,red,cake
+32,61,tan,cake
+34,61,white,cake
+35,61,yellow,cake
+24,62,black,chair
+25,62,blue,chair
+26,62,brown,chair
+27,62,gray,chair
+28,62,green,chair
+31,62,red,chair
+32,62,tan,chair
+34,62,white,chair
+24,63,black,couch
+26,63,brown,couch
+27,63,gray,couch
+31,63,red,couch
+32,63,tan,couch
+34,63,white,couch
+24,64,black,potted plant
+26,64,brown,potted plant
+28,64,green,potted plant
+31,64,red,potted plant
+34,64,white,potted plant
+35,64,yellow,potted plant
+26,65,brown,bed
+34,65,white,bed
+24,67,black,dining table
+26,67,brown,dining table
+27,67,gray,dining table
+32,67,tan,dining table
+34,67,white,dining table
+34,70,white,toilet
+24,72,black,tv
+27,72,gray,tv
+34,72,white,tv
+24,73,black,laptop
+27,73,gray,laptop
+34,73,white,laptop
+24,74,black,mouse
+27,74,gray,mouse
+34,74,white,mouse
+24,75,black,remote
+27,75,gray,remote
+34,75,white,remote
+24,76,black,keyboard
+27,76,gray,keyboard
+34,76,white,keyboard
+24,77,black,cell phone
+27,77,gray,cell phone
+34,77,white,cell phone
+24,78,black,microwave
+34,78,white,microwave
+24,79,black,oven
+27,79,gray,oven
+34,79,white,oven
+27,81,gray,sink
+34,81,white,sink
+27,82,gray,refrigerator
+34,82,white,refrigerator
+24,84,black,book
+25,84,blue,book
+26,84,brown,book
+27,84,gray,book
+31,84,red,book
+32,84,tan,book
+34,84,white,book
+35,84,yellow,book
+24,85,black,clock
+27,85,gray,clock
+34,85,white,clock
+24,86,black,vase
+26,86,brown,vase
+31,86,red,vase
+24,88,black,teddy bear
+26,88,brown,teddy bear
+31,88,red,teddy bear
+32,88,tan,teddy bear
+34,88,white,teddy bear
+34,90,white,toothbrush
+74,9,metal,boat
+74,13,metal,stop sign
+74,15,metal,bench
+79,15,wooden,bench
+73,31,leather,handbag
+76,35,plastic,skis
+79,35,wooden,skis
+76,36,plastic,snowboard
+73,37,leather,sports ball
+76,37,plastic,sports ball
+79,39,wooden,baseball bat
+79,41,wooden,skateboard
+76,42,plastic,surfboard
+79,42,wooden,surfboard
+72,44,glass,bottle
+76,44,plastic,bottle
+71,47,ceramic,cup
+72,47,glass,cup
+76,47,plastic,cup
+74,48,metal,fork
+74,49,metal,knife
+74,50,metal,spoon
+71,51,ceramic,bowl
+72,51,glass,bowl
+74,51,metal,bowl
+76,51,plastic,bowl
+73,62,leather,chair
+74,62,metal,chair
+76,62,plastic,chair
+79,62,wooden,chair
+74,67,metal,dining table
+76,67,plastic,dining table
+79,67,wooden,dining table
+71,70,ceramic,toilet
+71,81,porcelain,sink
+74,81,metal,sink
+75,84,paper,book
+74,85,metal,clock
+71,86,ceramic,vase
+72,86,glass,vase
+74,87,metal,scissors
+76,90,plastic,toothbrush
+92,17,striped,cat
+92,24,striped,zebra
+87,25,spotted,giraffe
+92,28,striped,umbrella
+93,28,tiled,umbrella
+87,32,dotted,tie
+92,32,striped,tie
+92,38,striped,kite
