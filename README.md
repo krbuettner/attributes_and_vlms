@@ -1,5 +1,7 @@
 # Investigating the Role of Attribute Context in Vision-Language Models for Object Recognition and Detection (WACV 2024)
 
+![Intro Image](files/intro_fig.png)
+
 This repo currently has code for our proposed text-region retrieval task.
 
 To prep, please install:
