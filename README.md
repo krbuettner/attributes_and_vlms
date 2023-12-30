@@ -1,4 +1,18 @@
 # Investigating the Role of Attribute Context in Vision-Language Models for Object Recognition and Detection (WACV 2024)
+
+This repo currently has code for our proposed text-region retrieval task.
+
+To prep, please install:
+- CLIP
+- [OpenCLIP](https://github.com/mlfoundations/open_clip)
+- PyTorch
+
+And download:
+- COCO 2017
+- [OVAD](https://ovad-benchmark.github.io/)
+
+Our trained CLIP models are [here](https://drive.google.com/drive/folders/1pgeqKt-U0O0Gh3qhhuKUs6CToW-2DiAV?usp=drive_link).
+
 More code to come!
 
 For citation, please refer as: 
